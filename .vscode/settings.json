@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "ramp-mode.h": "c",
+        "aux-leds.h": "c",
+        "config-mode.h": "c",
+        "misc.h": "c",
+        "sunset-timer.h": "c",
+        "battcheck-mode.h": "c",
+        "beacon-mode.h": "c",
+        "lockout-mode.h": "c",
+        "momentary-mode.h": "c",
+        "tactical-mode.h": "c",
+        "factory-reset.h": "c",
+        "strobe-modes.h": "c",
+        "smooth-steps.h": "c",
+        "load-save-config.h": "c"
+    }
+}
