@@ -1,7 +1,6 @@
-# Modified by bartoszp1992 in 2024: changed project name to flui(flashlight UI)
-# This project is based on open-source software by ToyKeeper released under the GNU GPL. The name has been changed to address concerns regarding possible intellectual property conflicts.
-# This project contains original graphical assets modified by bartoszp1992. These assets were originally created as part of the project of ToyKeeper and are licensed under the same terms as the source code (GNU GPL v3).
-# removed link to useful guide
+Modified by bartoszp1992 in 2024: changed project name to flui(flashlight UI), removed all phrases which contains original project name. 
+This project is based on open-source software by ToyKeeper released under the GNU GPL. The name has been changed to address concerns regarding possible intellectual property conflicts.
+This project contains original graphical assets modified by bartoszp1992. These assets were originally created as part of the project of ToyKeeper and are licensed under the same terms as the source code (GNU GPL v3).
 
 # flui Flashlight Firmware + FSM Flashlight UI Toolkit
 
